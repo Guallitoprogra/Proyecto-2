@@ -24,7 +24,7 @@ Pasos instalacion:
 
 <mark>****Tecnologias Usadas: ****</mark>
 
->    ![Why Python Programming](https://www.prgramly.com/wp-content/uploads/2022/04/Python-Symbol.png) ![Neo4j  YouTube](https://yt3.ggpht.com/a/AATXAJwTBrMWg8ErJHShesf-6CXMU_o0mE1IlNerGQ=s900-c-k-c0xffffffff-no-rj-mo) ![Logo Visual Studio Code – Logos PNG](https://th.bing.com/th/id/R.3c4b2ee09c3d91bfa37868c6098969a7?rik=nH8PFQkrBD%2bbOA&pid=ImgRaw&r=0) ![Microsoft Edge  Wikipedia](https://th.bing.com/th/id/OIP.FTF_ObNp6_5Wo1eq6khgqwHaHa?rs=1&pid=ImgDetMain)
+>  ![vs](https://github.com/Guallitoprogra/Proyecto-2/assets/131787074/27340a55-3b0b-4e64-bc93-bb8ab9451abc) ![Neo4j  YouTube](https://yt3.ggpht.com/a/AATXAJwTBrMWg8ErJHShesf-6CXMU_o0mE1IlNerGQ=s900-c-k-c0xffffffff-no-rj-mo) ![Logo Visual Studio Code – Logos PNG](https://th.bing.com/th/id/R.3c4b2ee09c3d91bfa37868c6098969a7?rik=nH8PFQkrBD%2bbOA&pid=ImgRaw&r=0) ![Microsoft Edge  Wikipedia](https://th.bing.com/th/id/OIP.FTF_ObNp6_5Wo1eq6khgqwHaHa?rs=1&pid=ImgDetMain)
 
 #### <mark>Demostración Grafica del Programa:</mark>
 
