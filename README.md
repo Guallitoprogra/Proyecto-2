@@ -1,4 +1,4 @@
-<u>** Programa de Recomendaciones de Libros** </u>
+<u> Programa de Recomendaciones de Libros </u>
 
 **<mark>Autores: </mark>**
 
